@@ -242,7 +242,7 @@ The [ToolPickerView](x-source-tag://ToolPickerView) represents the overlay for s
 
  The [MessageLabel](x-source-tag://MessageLabel) represents the window displaying any additional information on the screen such as user instructions when the transform button is selected.
 
-![](Bewegen.mp4)
+![](Documentation/sketching.gif)
 
 
 
