@@ -242,6 +242,9 @@ The [ToolPickerView](x-source-tag://ToolPickerView) represents the overlay for s
 
  The [MessageLabel](x-source-tag://MessageLabel) represents the window displaying any additional information on the screen such as user instructions when the transform button is selected.
 
+![](Bewegen.mp4)
+
+
 
 [1]:https://developer.apple.com/documentation/arkit/arcoachingoverlayview
 [2]:https://developer.apple.com/documentation/arkit/creating_a_multiuser_ar_experience
