@@ -3,16 +3,13 @@
 This is the project for my Bachelor's thesis "Benutzerzentrierte Entwicklung eines kollaborativen AR-Sketching Tools" at the University of Applied Sciences Berlin.
 It is a multiuser collaborative augmented reality sketching application using SceneKit and ARKit in combination with the MultipeerConnectivity framework.  
 
+<img src="Documentation/sketching.gif" width="300" height=auto/>
+
 ## Release Notes
 The application was developed and tested using:  
 - Xcode Version 11.5 ([`Download`][7])
 - Apple's operating system iOS 13.7
 - on iPhone 11 Pro, iPhone X, iPhone 6S.
-
-For impressions of how this application works see the video here: 
-
-<img src="Documentation/sketching.gif" width="300" height=auto/>
-
 
 &NewLine;
 &NewLine;
