@@ -1,0 +1,26 @@
+/*
+ 
+  Localizable.strings
+  AR-Sketch
+
+  Created by Josephine Battiston on 01.08.20.
+  Copyright © 2020 Josephine Battiston. All rights reserved.
+ 
+*/
+
+
+"restart_title" = "Restart AR Experience?";
+"restart_message" = "Do you really want to restart the AR experience? This might be useful if your AR experience is running slow or laggy. Keep in mind that restarting will also remove your entire sketch and disable the connection to other devices you might collaborate with.";
+"collaborate_title" = "Connect with friend?";
+"collaborate_message" = "\nDo you want to share your workspace with ?";
+"collaboration_failed_title" = "Sorry!";
+"collaboration_failed_message" = "There is no friend in the area you can connect to right now.\n\n Make sure there is somebody in the same area that has the AR Sketch App switched on and try again.";
+"lost_connection_title" = "Lost Connection";
+"lost_connection_message" = "\nSorry, the connection to your friend is lost.\n\nDo you want to restart you AR Experience or keep drawing by yourself?";
+"yes" = "Yes";
+"no" = "No";
+"okay" = "Okay";
+"cancel" = "Cancel";
+"restart" = "Restart";
+"keep_drawing" = "Keep Drawing";
+"transform_message" = "MOVE:     Long Press with 1 finger\nSKALE:    Pinch with 2 fingers\nROTATE:  Twist with 2 fingers";
