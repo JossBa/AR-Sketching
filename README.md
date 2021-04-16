@@ -9,7 +9,10 @@ The application was developed and tested using:
 - Apple's operating system iOS 13.7
 - on iPhone 11 Pro, iPhone X, iPhone 6S.
 
-For impressions of how this application works see the video files here:  [`HTW Berlin Cloud `][4].
+For impressions of how this application works see the video here: 
+
+![Video of the App](Documentation/sketching.gif)
+
 
 &NewLine;
 &NewLine;
@@ -241,9 +244,6 @@ The [ToolPickerView](x-source-tag://ToolPickerView) represents the overlay for s
  ## MessageLabel
 
  The [MessageLabel](x-source-tag://MessageLabel) represents the window displaying any additional information on the screen such as user instructions when the transform button is selected.
-
-![](Documentation/sketching.gif) 
-![Video of the App](Documentation/sketching.gif)
 
 
 
