@@ -11,7 +11,7 @@ The application was developed and tested using:
 
 For impressions of how this application works see the video here: 
 
-![Video of the App](Documentation/sketching.gif)
+![Video of the App](Documentation/sketching.gif =100x)
 
 
 &NewLine;
